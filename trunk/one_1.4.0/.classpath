@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="data/|data/cluster/|data/HelsinkiMedium/|data/Manhattan/|doc/|ee/|reports/|lib/|wdm_settings/|toolkit/|gui/buttonGraphics/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/workspace/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cxiao4/Desktop/毕设/one_1.4.0/lib/DTNConsoleConnection.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cxiao4/Desktop/毕设/one_1.4.0/lib/ECLA.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
